@@ -27,5 +27,10 @@ Run 'npx hardhat run scripts/deploy.js --network localhost' in VSC
 (Make sure that the deploy script has the 'Hello hardhat' omitted from it before deploying. This is because in the constructor, it is not in)
 
 
+To Test
+
+Open another terminal with same directory.
+Run 'npx hardhat test'
+
 
 
