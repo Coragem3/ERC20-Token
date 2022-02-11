@@ -1,5 +1,5 @@
 # Hardhat
-Setting up a local environment
+Setting up a local environment to test and deploy in Hardhat
 
 Using VSC
 
